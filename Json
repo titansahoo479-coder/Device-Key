@@ -1,6 +1,6 @@
 {
   "title": "New Update Available",
-  "description": "This Mod Application Has Been <font color='#E53935'><b>Outdated Or Expired</b></font>. Please Enter Valid 10-Digit Key or Get It From Our Website <font color='#1E88E5'><b>ʏᴏᴍᴏsᴛᴏʀᴇ.ғʀᴇᴇ.ɴғ</b></font>",
+  "description": "This Application Has Been <font color='#E53935'><b>Outdated Or Expired</b></font>. Please Enter Valid 10-Digit Key or Get It From Our <font color='#1E88E5'><b>Telegram Channel</b></font>.",
   "logo_url_enabled": true,
   "logo_url": "https://imgh.in/host/0u2pew",
   "dialog_bg_color": "#FFFFFF",
@@ -11,12 +11,6 @@
   "get_key_btn_stroke": "#000000",
   "get_key_btn_text_color": "#000000",
   "get_key_text": "GET KEY",
-  "get_key_url": "https://yomostore.netlify.app/contact",
-  "enter_text": "ENTER",
-  "access_keys": [
-    "1234567890",
-    "9876543210",
-    "1122334455"
-  ],
-  "duration_hours": 24
+  "get_key_url": "https://yomostore.free.nf",
+  "enter_text": "ENTER"
 }
