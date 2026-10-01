@@ -1,0 +1,22 @@
+{
+  "title": "New Update Available",
+  "description": "This Mod Application Has Been <font color='#E53935'><b>Outdated Or Expired</b></font>. Please Enter Valid 10-Digit Key or Get It From Our <font color='#1E88E5'><b>Telegram Channel</b></font>.",
+  "logo_url_enabled": false,
+  "logo_url": "https://example.com/logo.png",
+  "dialog_bg_color": "#FFFFFF",
+  "title_text_color": "#000000",
+  "desc_text_color": "#212121",
+  "enter_btn_bg": "#000000",
+  "enter_btn_text_color": "#FFFFFF",
+  "get_key_btn_stroke": "#000000",
+  "get_key_btn_text_color": "#000000",
+  "get_key_text": "GET KEY",
+  "get_key_url": "https://t.me/your_channel",
+  "enter_text": "ENTER",
+  "access_keys": [
+    "1234567890",
+    "9876543210",
+    "1122334455"
+  ],
+  "duration_hours": 24
+}
